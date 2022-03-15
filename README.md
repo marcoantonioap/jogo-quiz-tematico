@@ -11,3 +11,4 @@ Esse jogo foi desenvolvido em [Portugol](http://lite.acad.univali.br/portugol/) 
 - Leitura de arquivo .txt
 
 ## Apresentação:
+![apresentacao_git_hub_quiz_tematico](https://user-images.githubusercontent.com/65511251/158285399-95952eb8-7b61-47f2-9b2a-cc120db0384a.gif)
