@@ -1,4 +1,4 @@
-# 💻FATEC - jogo_quiz_tematico
+# FATEC - jogo_quiz_tematico
 Um Quiz, onde o jogador consegue escolher o tema das perguntas.
 
 ## Criação
