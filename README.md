@@ -1,5 +1,10 @@
 # FATEC - jogo_quiz_tematico
-Um Quiz, onde o jogador consegue escolher o tema das perguntas.
+Um Quiz onde o jogador consegue escolher um tema, dentre 4 temas predefinidos, de perguntas e ao final recebe o resultado de como se saiu.
+
+# Execução do programa
+ 1. Baixar [Portugol Studio](http://lite.acad.univali.br/portugol/)
+ 2. Baixar repositório
+ 3. Abrir arquivo '.por' no Portugol Studio e clicar no botão de 'run'
 
 ## Criação
 Esse jogo foi desenvolvido em [Portugol](http://lite.acad.univali.br/portugol/) utilizando-se inteiramente de suas bibliotecas nativas.
